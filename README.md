@@ -8,6 +8,7 @@
 
 ![progress](https://img.shields.io/badge/Progress-In%20work-yellow)
 
+![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc4MXBmbzFkY3p5MHpteHkxbXlpNWw0dTZvMHI0d2MyNzExZnhqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/111qkWCRLqGBRsxa2D/source.gif)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demurelian)](https://github.com/demurelian/github-readme-stats)
 
