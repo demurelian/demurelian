@@ -3,7 +3,7 @@
 
 <h2 align="left">My projects:</h2>
 
-<h3 align="left"><a href="vk.com/demurelian" target="_blank">File Manager</a> 
+<h3 align="left"><a href="FileManager" target="_blank">File Manager</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h3>
 
 ![progress](https://img.shields.io/badge/Progress-In%20work-yellow)
