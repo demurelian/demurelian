@@ -24,13 +24,7 @@
 
 ![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV5N2RxdGd4d3VvMWExdHE0ZzV3NXFnbWhobmdqa2w1eXB4ZHI1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HxXOul0CEusPrmAMtZ/giphy.gif)
 
-![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJsM3Nud2hmeXNrMXJhaWduY3phYXVwb3N5MW01ajZpeTc3c3p4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EgfsY36VAAdossPPcz/source.gif)
 
-![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDB2eTU4YnhqeDdsZ2QwNWRxYWxyOXl5a3A3eTY4bTB5NzJpYjY3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G9tUPFGMv6znlAkE8r/giphy-downsized-large.gif)
-
-![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtjOXdybGkxYTd3dGozeGNmZm1pdHplODM1MW84NHRqMXhvMHpxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6tYl8o3XsG05QLgZPi/giphy.gif)
-
-<h7>done</h7>
 
 <!--
 **demurelian/demurelian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
