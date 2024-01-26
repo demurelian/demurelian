@@ -6,7 +6,7 @@
 <h3 align="left"><a href="https://github.com/demurelian/FileManager" target="_blank">File Manager</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h3>
 
-![progress](https://img.shields.io/badge/Progress-In%20work-yellow)
+![progress](https://img.shields.io/badge/Progress-Done-green)
 
 ![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc4MXBmbzFkY3p5MHpteHkxbXlpNWw0dTZvMHI0d2MyNzExZnhqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/111qkWCRLqGBRsxa2D/source.gif)
 
