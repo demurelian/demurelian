@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Konstantin</h1>
-<h2 align="center">Computer science student from Russia 🇷🇺</h2>
+<h2 align="center">Computer science student from Russia</h2>
 
 <h3 align="left">My projects:</h3>
 
