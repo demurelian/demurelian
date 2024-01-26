@@ -3,7 +3,7 @@
 
 <h3 align="left">My projects:</h3>
 
-<h4 align="center"><a href="https://github.com/demurelian/FileManager" target="_blank">FileManager</a></h4>
+<h4 align="left"><a href="https://github.com/demurelian/FileManager" target="_blank">File Manager</a></h4>
 
 ![progress](https://img.shields.io/badge/Progress-Done-green)
 
@@ -11,7 +11,7 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=demurelian&repo=ChristmasDeerGame)](https://github.com/demurelian/ChristmasDeerGame)
+<h5 align="left"><a href="https://github.com/demurelian/ChristmasDeerGame" target="_blank">Christmas Deer Game</a></h5>
 
 ![progress](https://img.shields.io/badge/Progress-Done-green)
 
