@@ -9,7 +9,11 @@
 
 ![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc4MXBmbzFkY3p5MHpteHkxbXlpNWw0dTZvMHI0d2MyNzExZnhqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/111qkWCRLqGBRsxa2D/source.gif)
 
+<h4 align="left"><a href="https://github.com/demurelian/ChristmasDeerGame" target="_blank">Christmas Deer Game</a></h4>
 
+![progress](https://img.shields.io/badge/Progress-Done-green)
+
+![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZ0d25uaGs0Mnk2ZzFuNG8yNGprN3B1cGExZThjeWhwZHE0OGZrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mGBeVlDbdOujPo7sXc/giphy-downsized-large.gif)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demurelian)](https://github.com/demurelian/github-readme-stats)
