@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <img src="header.png" alt="text">
 
 <!--
