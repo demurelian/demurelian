@@ -13,7 +13,7 @@
 
 ![progress](https://img.shields.io/badge/Progress-Done-green)
 
-![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZ0d25uaGs0Mnk2ZzFuNG8yNGprN3B1cGExZThjeWhwZHE0OGZrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mGBeVlDbdOujPo7sXc/giphy-downsized-large.gif)
+![gif](https://giphy.com/gifs/mGBeVlDbdOujPo7sXc)
 
 <!--
 **demurelian/demurelian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
