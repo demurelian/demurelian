@@ -27,7 +27,9 @@
 
 ![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV5N2RxdGd4d3VvMWExdHE0ZzV3NXFnbWhobmdqa2w1eXB4ZHI1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HxXOul0CEusPrmAMtZ/giphy.gif)
 
-
+# To contact me:
+demurelian@gmail.com
+https://t.me/demurelian
 
 <!--
 **demurelian/demurelian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
