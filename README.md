@@ -3,7 +3,7 @@
 
 <h3 align="left">My projects:</h3>
 
-<h4 align="left"><a href="https://github.com/demurelian/FirstWebApplicationCSharp" target="_blank">C# WPF + MVVM Project</a></h4>
+<h4 align="left"><a href="https://github.com/demurelian/WPFMVVM" target="_blank">C# WPF + MVVM Project</a></h4>
 
 ![progress](https://img.shields.io/badge/Progress-In%20Progress-yellow)
 
