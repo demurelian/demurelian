@@ -3,9 +3,9 @@
 
 <h3 align="left">My projects:</h3>
 
-<h4 align="left"><a href="https://github.com/demurelian/WPFMVVM" target="_blank">C# WPF + MVVM Project</a></h4>
+#### WPF App
 
-![progress](https://img.shields.io/badge/Progress-In%20Progress-yellow)
+![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNThjdTJxYmpqYmtuMmhjc3dvZWlwb2k2OHFzcndjMTgxNGIwMjU0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bdu2TRe0zWBv1G6457/giphy.gif)
 
 <h4 align="left"><a href="https://github.com/demurelian/FileManager" target="_blank">File Manager (Qt/C++)</a></h4>
 
