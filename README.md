@@ -3,7 +3,7 @@
 
 <h3 align="left">My projects:</h3>
 
-#### WPF App
+<h4 align="left"><a href="https://github.com/demurelian/PRNcompression" target="_blank">WPF App</a></h4>
 
 ![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNThjdTJxYmpqYmtuMmhjc3dvZWlwb2k2OHFzcndjMTgxNGIwMjU0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bdu2TRe0zWBv1G6457/giphy.gif)
 
